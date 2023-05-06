@@ -1,1 +1,3 @@
-# DevOpsBatch3# branching-tut
+# DevOpsBatch3
+LEARNING MODE
+TESTING REPO
